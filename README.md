@@ -10,3 +10,13 @@ Creating a custom library to make http requests using AJAX with callback functio
 
   Alright, I just completed going over this again and I get it a lot more now. I'm excited to learn about promices and the fetch api now!
 }
+
+# 2-11-2020 (9:30pm) {
+  I am going to re-make this library using more modern technologies: fetch with promices and es6 arrow functions.
+}
+
+# 2-12-2020 (8:00pm) {
+  I just reviewed all of the asynchronous javascript technologies that I have been learning about this week and I feel like I am grasping them a lot better now. I am about to make a second version of a custom http library using es6 classes and arrow functions, as well as using fetch api and promices.
+
+  I was able to do most of it without looking back at the tutorial that I am following. I forgot to put the method and content type in the delete method, I forgot a promise takes in resolve and reject, and I forgot where exactly to put the content type too. Other than that I remembered just about all of this! Making progress slowly and steadily!!!
+}
