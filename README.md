@@ -20,3 +20,9 @@ Creating a custom library to make http requests using AJAX with callback functio
 
   I was able to do most of it without looking back at the tutorial that I am following. I forgot to put the method and content type in the delete method, I forgot a promise takes in resolve and reject, and I forgot where exactly to put the content type too. Other than that I remembered just about all of this! Making progress slowly and steadily!!!
 }
+
+# 2-21-2020 (10:00am) {
+  I am going to do a third version of this custom http request library using async and await keywords. I will try and convert it without looking it up first, then I will correct myself.
+
+
+}
